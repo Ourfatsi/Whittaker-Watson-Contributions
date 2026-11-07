@@ -1,10 +1,10 @@
 # Whittaker-Watson-Contributions
 Solutions to some exercises of "A Course of Modern Analysis" by Whittaker and Watson
 
-Context
-Studying the textbook.
-Worked by an amateur mathematican.
-Educational purposes.
+Context :
+
+* Worked by an **amateur mathematican**.
+* Studying the textbook.
 
 This is my first public repository; I aim to share my work for educational purposes. If my work is correct, then that is good; if not, the purpose is to learn form mistakes.
 
